@@ -1,0 +1,16 @@
+{
+  "name": "dfusedownloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dfuse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dfuse/client": "^0.3.20",
+    "node-fetch": "^2.6.1",
+    "ws": "^7.4.5"
+  }
+}
